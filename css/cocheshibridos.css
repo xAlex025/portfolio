@@ -1,0 +1,34 @@
+div figure{
+    width: 100%;
+    margin: 0;
+    align-items: center;
+}
+.centrado{
+    margin:10px auto;
+    display:block;
+}
+div figure#fondo{
+    width: 100%;
+}
+ h2{
+    color: white;
+    padding: 20px;
+    text-align: center;
+    width: 40%;
+    margin:  0 auto;
+    margin-top: 20px;
+    background-color:rgba(26, 145, 243, 0.856);
+    box-shadow:  5px 5px rgb(226, 223, 223);
+    word-spacing: 5px;
+    letter-spacing: 10px;
+}
+div figure#fondos img{
+    width: 100%;
+    background-size: cover;
+    align-items: center;
+    display: flex;
+    flex-flow: row wrap;
+    flex-direction: column;
+    background-color: black;
+    background-repeat: no-repeat;
+}
